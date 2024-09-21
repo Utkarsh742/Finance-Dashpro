@@ -90,7 +90,7 @@ const Sidebar = () => {
         !isCollapsed && (
           <Box mb="25px">
           <Box display="flex" justifyContent = "center" alignItems="center">
-            <img alt='user-profile' width="100px" height="100px" src = "https://utkarsh742.github.io/My-Portfolio/images/profile-1.jpeg" style={{cursor:"pointer", borderRadius:'50%'}}/>
+            <img alt='user-profile' width="100px" height="100px" src = "https://utkarshdwivedi.in/assets/images/profile-img.png" style={{cursor:"pointer", borderRadius:'50%'}}/>
           </Box>
           <Box textAlign="center" >
             <Typography variant="h3" color={colors.grey[100]} fontWeight='bold' sx={{m:"10px 0 0 0"}}>Utkarsh Dwivedi</Typography>
